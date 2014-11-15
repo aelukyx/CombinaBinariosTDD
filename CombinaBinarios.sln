@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinaBinarios", "CombinaBinarios\CombinaBinarios.csproj", "{0845C2F0-D122-4D33-A7B5-18B3B6FB1B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteaCombinaBinarios", "TesteaCombinaBinarios\TesteaCombinaBinarios.csproj", "{956DA6EF-7211-44E3-8CC2-2DBF4C7D3DB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0845C2F0-D122-4D33-A7B5-18B3B6FB1B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0845C2F0-D122-4D33-A7B5-18B3B6FB1B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0845C2F0-D122-4D33-A7B5-18B3B6FB1B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0845C2F0-D122-4D33-A7B5-18B3B6FB1B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956DA6EF-7211-44E3-8CC2-2DBF4C7D3DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956DA6EF-7211-44E3-8CC2-2DBF4C7D3DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956DA6EF-7211-44E3-8CC2-2DBF4C7D3DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956DA6EF-7211-44E3-8CC2-2DBF4C7D3DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

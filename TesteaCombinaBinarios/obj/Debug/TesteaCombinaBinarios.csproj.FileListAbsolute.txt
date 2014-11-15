@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\bin\Debug\TesteaCombinaBinarios.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\bin\Debug\TesteaCombinaBinarios.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\bin\Debug\CombinaBinarios.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\bin\Debug\nunit.framework.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\bin\Debug\CombinaBinarios.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\bin\Debug\nunit.framework.xml
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\obj\Debug\TesteaCombinaBinarios.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\obj\Debug\TesteaCombinaBinarios.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\TesteaCombinaBinarios\obj\Debug\TesteaCombinaBinarios.pdb

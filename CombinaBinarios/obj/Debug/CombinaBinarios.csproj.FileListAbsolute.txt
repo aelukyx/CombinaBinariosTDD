@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\CombinaBinarios\bin\Debug\CombinaBinarios.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\CombinaBinarios\bin\Debug\CombinaBinarios.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\CombinaBinarios\obj\Debug\CombinaBinarios.dll
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\CombinaBinarios\obj\Debug\CombinaBinarios.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\CombinaBinarios\CombinaBinarios\obj\Debug\CombinaBinarios.csprojResolveAssemblyReference.cache
